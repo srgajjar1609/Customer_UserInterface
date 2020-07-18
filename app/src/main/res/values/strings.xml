@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CustomerUI</string>
+
+    <string-array name="spinner_array">
+        <item>India(+91)</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+    </string-array>
+    <string-array name="Grocery_items">
+        <item>Item</item>
+        <item>Rice</item>
+        <item>Maggie</item>
+        <item>Chocolates</item>
+        <item>Milk</item>
+        <item>Ice-cream</item>
+    </string-array>
+
+    <string-array name="unit">
+        <item>Unit</item>
+        <item>gm</item>
+        <item>kg</item>
+        <item>pack</item>
+
+    </string-array>
+    <string-array name="payment_method">
+        <item>Select</item>
+        <item>Online</item>
+        <item>Cash on Delivery</item>
+
+
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
